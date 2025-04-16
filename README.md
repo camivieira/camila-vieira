@@ -12,6 +12,16 @@
 - 🌱 Currently growing my skills in full-stack development
 ```
 
+🎓 **Certification & Education**
+
+- 🏫 **George Brown College**  
+  *Computer Programming and Analysis*  
+  *Toronto, Canada | 2025 – Present*
+
+- 📜 **Google IT Support Professional Certificate**  
+  *Issued by Coursera & Google | February 2025*
+
+
 💙 **Languages and Tools**
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,bash" /> </p>
 
@@ -24,5 +34,5 @@
 - 🐱 Cat lover and fan of all things aesthetic.
 
 📫 **Let's Connect**
-<p align="left"> <a href="https://www.linkedin.com/in/camilavieira30/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:camilavieira.dev@hotmail.com"> <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/camilavieira30/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:camilavieira.dev@hotmail.com"> <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/camila_v30"> <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" /> </a></p>
 
