@@ -34,5 +34,5 @@
 - 🐱 Cat lover and fan of all things aesthetic.
 
 📫 **Let's Connect**
-<p align="left"> <a href="https://www.linkedin.com/in/camilavieira30/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:camilavieira.dev@hotmail.com"> <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/camila_v30"> <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" /> </a></p>
+<p align="left"> <a href="https://www.linkedin.com/in/camilavieira30/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:camilavieira.dev@hotmail.com"> <img src="https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.instagram.com/camila_v30" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" /> </a></p>
 
