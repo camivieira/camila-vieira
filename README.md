@@ -21,6 +21,13 @@
 - 📜 **Google IT Support Professional Certificate**  
   *Issued by Coursera & Google | February 2025*
 
+ 📁 **Projects**
+
+Here are a few of the things I’ve been working on:
+
+- 🌐 [Personal Webpage](https://github.com/camivieira/portfolio)  
+  A portfolio page crafted from scratch to learn structure and accessibility best practices.
+
 
 💙 **Languages and Tools**
 <p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,bash" /> </p>
